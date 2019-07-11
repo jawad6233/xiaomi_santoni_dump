@@ -1,0 +1,73 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: t9W669ppkCfSsMdVHR+YNIf1F8c=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: q6SPDWzUVXlqDK3mpVO2qa/CyvA=
+
+Name: file_contexts.bin
+SHA1-Digest: d3gDNAVOMUhx2MXBUXX8weCUJSc=
+
+Name: firmware-update/adspso.bin
+SHA1-Digest: vFGYkYjNXnlTylDTfxb2A8kpvQ0=
+
+Name: META-INF/com/miui/miui_update
+SHA1-Digest: foaoJj3EvxayKuQxXnUCWCJHTl8=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: q94I3Fg4llyH6eUm7p7l3xLQHWg=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: xa/EebkOJ6cK0wWkuQf/e0Y/Q6s=
+
+Name: system.patch.dat
+SHA1-Digest: 774VWw1Wa8Y+IPKHHCeM6N//yzE=
+
+Name: system.transfer.list
+SHA1-Digest: JQE0YUCNbDJMsC6Q6uomviiJYls=
+
+Name: boot.img
+SHA1-Digest: YLZDWlbAL5CtogPh96Rha5P+66A=
+
+Name: firmware-update/lksecapp.mbn
+SHA1-Digest: SUuq9WOTyMarAHutaxLZBRjqLc8=
+
+Name: firmware-update/splash.img
+SHA1-Digest: YLOmubySOIsWX1T8l7uPzcCB7PU=
+
+Name: system.new.dat
+SHA1-Digest: MXtdaAm1WBgTanboEyr1qBmT4SI=
+
+Name: firmware-update/devcfg.mbn
+SHA1-Digest: CWv/s7BzUp1WIl3Qsn5zxJ0RMZo=
+
+Name: firmware-update/rpm.mbn
+SHA1-Digest: Ya+FBNA5hVgRsfLERAjS76Xpk2Y=
+
+Name: firmware-update/keymaster.mbn
+SHA1-Digest: 1y+YEYCLBylm2Jrob8jgDM42cTk=
+
+Name: firmware-update/mdtp.img
+SHA1-Digest: b4lnUV/I+QIYfzLVJLPQ7QqU+q0=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: YDUPtXAGwsT/rtbmrlZfJi7oX5U=
+
+Name: firmware-update/tz.mbn
+SHA1-Digest: QfZWzrd97UnIsceEYArYEq6yNPM=
+
+Name: firmware-update/sbl1.mbn
+SHA1-Digest: ypgZSkcNq//XuZe1kyvnW2BA0LI=
+
+Name: firmware-update/cmnlib.mbn
+SHA1-Digest: G5RCeazvw3DsMV3i5Ese3IgbAHw=
+
+Name: firmware-update/emmc_appsboot.mbn
+SHA1-Digest: SaJCXIwTTXVOcScF0lxBWg+xRcQ=
+
+Name: firmware-update/NON-HLOS.bin
+SHA1-Digest: zfmCLJadMcIWRpFj83oG26dfkdg=
+
+Name: firmware-update/cmnlib64.mbn
+SHA1-Digest: 0ERSSTE8I/h2ngukvaZruwVXIoI=
+

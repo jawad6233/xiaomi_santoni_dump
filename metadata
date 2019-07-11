@@ -1,0 +1,5 @@
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Xiaomi/santoni/santoni:7.1.2/N2G47H/V10.3.1.0.NAMCNXM:user/release-keys
+post-timestamp=1556448797
+pre-device=santoni
